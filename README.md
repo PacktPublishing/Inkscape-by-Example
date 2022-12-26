@@ -43,6 +43,5 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * Adobe Animate 2022 for Creative Professionals - Second Edition [[Packt]](https://www.packtpub.com/product/adobe-animate-2022-for-creative-professionals-second-edition/9781803232799?utm_source=github&utm_medium=repository&utm_campaign=9781803232799) [[Amazon]](https://www.amazon.com/dp/180323279X)
 
 ## Get to Know the Author
-**István Szép**
-István Szép is a graphic designer, illustrator, and design teacher. His goal is to inspire others by sharing his knowledge about visual design and life and work as a freelance designer. His tool of choice is Inkscape, an open source graphic design program, which is what he uses most for his design work.
+**István Szép** is a graphic designer, illustrator, and design teacher. His goal is to inspire others by sharing his knowledge about visual design and life and work as a freelance designer. His tool of choice is Inkscape, an open source graphic design program, which is what he uses most for his design work.
 István earned his master's degree as a visual communication and multimedia teacher in 2009 from MOME (Moholy-Nagy University of Art and Design). Since then, he's worked as an illustrator and graphic designer for hundreds of clients, while teaching both live and online classes to thousands. He currently lives and works in Budapest with his wife, Erika, who is also a graphic designer.

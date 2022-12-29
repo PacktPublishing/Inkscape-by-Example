@@ -45,3 +45,8 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **István Szép** is a graphic designer, illustrator, and design teacher. His goal is to inspire others by sharing his knowledge about visual design and life and work as a freelance designer. His tool of choice is Inkscape, an open source graphic design program, which is what he uses most for his design work.
 István earned his master's degree as a visual communication and multimedia teacher in 2009 from MOME (Moholy-Nagy University of Art and Design). Since then, he's worked as an illustrator and graphic designer for hundreds of clients, while teaching both live and online classes to thousands. He currently lives and works in Budapest with his wife, Erika, who is also a graphic designer.
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781803243146">https://packt.link/free-ebook/9781803243146 </a> </p>
